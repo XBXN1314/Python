@@ -1,8 +1,10 @@
+# -*- coding: utf-8 -*
 print "hello Python!"
 print "123"
 i = 7
 print "2+3"
 
+# 单引号
 c1 = 'sght'
 print c1
 c2 = 'It is a "dog"!'
