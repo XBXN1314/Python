@@ -13,7 +13,6 @@ print listb
 
 listc = pickle.loads(listb)
 print listc
-
 # 将对象存储到文件里面序列化
 
 group1 = ("bajiu", "wen", "qingtian")
